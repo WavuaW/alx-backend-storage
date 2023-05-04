@@ -1,1 +1,1 @@
-ALX back end projects related to SQL Database [This is just a place holder I will update it]
+ALX back end projects related to Database [This is just a place holder I will update it]
